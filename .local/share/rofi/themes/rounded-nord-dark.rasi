@@ -1,0 +1,17 @@
+/* Yes Sir/Madam */
+* {
+    global-background:    #2D302F;
+    input-background:     #363838;
+    message:              #5e5e5e80;
+    accent:               #Ac8B56;
+    selected:             #80673e;
+    global-text:          #D7D0C7;
+    prompt:               #D7D0C7;
+    input-text:           #5e5e5e;
+}
+
+@import "template/rounded-template.rasi"
+
+element selected {
+  text-color: @prompt;
+}
