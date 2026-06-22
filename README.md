@@ -8,5 +8,5 @@
 You can find the backgrounds in the coresponding hyprland theme https://github.com/amraoui-dev/hyprland
 
 ## Another themes repositories
-- rofi: https://github.com/amraoui-dev/rofi
+- waybar: https://github.com/amraoui-dev/waybar
 - hyprland: https://github.com/amraoui-dev/hyprland](https://github.com/amraoui-dev/)
