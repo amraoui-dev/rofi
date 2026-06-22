@@ -4,3 +4,9 @@
 2. Make sure to install all the dependencies in the dependencies file that is profided in the theme you want (if it is), each line is a thing you need install for the theme to work properly.
 
 3. There is a coresponding hyprland and waybar themes in my account (repositories), organized by numbers, just take the same number in all of the three to get a better experience, although you absolutely can choose them differently, just make sure to install the dependencies as mensioned above.
+
+You can find the backgrounds in the coresponding hyprland theme https://github.com/amraoui-dev/hyprland
+
+## Another themes repositories
+- rofi: https://github.com/amraoui-dev/rofi
+- hyprland: https://github.com/amraoui-dev/hyprland](https://github.com/amraoui-dev/)
